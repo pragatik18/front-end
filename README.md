@@ -31,7 +31,6 @@ Front-end application written in [Node.js](https://nodejs.org/en/) that puts tog
 </table>
 
 ## Node
-
 `npm install`
 
 ## Docker
